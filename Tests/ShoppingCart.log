@@ -1,0 +1,29 @@
+datefmt= 07/09/2020 12:35:45 PM :INFO :test_shoppingCart :Clicking on shop Button :
+datefmt= 07/09/2020 12:50:05 PM :INFO :test_shoppingCart :Clicking on shop Button :
+datefmt= 07/09/2020 12:52:59 PM :INFO :test_shoppingCart :Clicking on shop Button :
+datefmt= 07/09/2020 12:52:59 PM :INFO :test_shoppingCart :Clicking on the product to ne purchased 
+datefmt= 07/09/2020 12:52:59 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 12:54:23 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 12:54:24 PM :INFO :test_shoppingCart :Clicking on the product to ne purchased 
+07/09/2020 12:54:24 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 12:59:26 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 01:01:41 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 01:03:34 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 01:03:34 PM :INFO :test_shoppingCart :Clicking on the product to be purchased 
+07/09/2020 01:03:34 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 01:09:46 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 01:09:46 PM :INFO :test_shoppingCart :Clicking on the product to be purchased 
+07/09/2020 01:09:46 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 01:09:46 PM :INFO :test_shoppingCart :Final Checkout is done :
+07/09/2020 04:50:19 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 04:50:20 PM :INFO :test_shoppingCart :Clicking on the product to be purchased 
+07/09/2020 04:50:20 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 04:50:20 PM :INFO :test_shoppingCart :Checkout is done :
+07/09/2020 04:50:27 PM :INFO :test_shoppingCart :Alert received after successful placement of order : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+07/09/2020 04:52:35 PM :INFO :test_shoppingCart :Clicking on shop Button :
+07/09/2020 04:52:35 PM :INFO :test_shoppingCart :Clicking on the product to be purchased 
+07/09/2020 04:52:35 PM :INFO :test_shoppingCart :The product selected is : iphone X
+07/09/2020 04:52:35 PM :INFO :test_shoppingCart :Final Checkout is done :
+07/09/2020 04:52:42 PM :INFO :test_shoppingCart :Alert received after successful placement of order : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
